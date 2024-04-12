@@ -1,70 +1,33 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# LexiLab
 
-## Available Scripts
+LexiLab is a React-based text utility tool that provides various functions to manipulate text input. Whether you need to convert text to uppercase or lowercase, remove extra spaces, capitalize each word, or even get a summary of the text, LexiLab has got you covered!
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Text Case Conversion:** Convert text to uppercase, lowercase, or sentence case with just a click.
+- **Remove Extra Spaces:** Easily remove extra spaces from your text.
+- **Copy to Clipboard:** Quickly copy the modified text to your clipboard for easy sharing.
+- **Text Summary:** Get a summary of your text, including the number of words, characters, and estimated reading time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to Use
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Input Text:** Enter your text in the provided textarea.
+2. **Choose Operation:** Select the desired operation from the available buttons (e.g., uppercase, lowercase, etc.).
+3. **View Preview:** See the modified text in real-time in the preview section.
+4. **Copy or Modify Further:** Copy the modified text to your clipboard or continue modifying as needed.
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run LexiLab locally, follow these steps:
 
-### `npm run build`
+1. Clone this repository: `git clone https://github.com/your-username/LexiLab.git`
+2. Navigate to the project directory: `cd LexiLab`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser and go to `http://localhost:3000` to view LexiLab.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contributions are welcome! If you'd like to contribute to LexiLab, feel free to fork this repository, make your changes, and submit a pull request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
