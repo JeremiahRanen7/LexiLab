@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LexiLab/static/css/main.708ccc55.css",
+    "main.js": "/LexiLab/static/js/main.2cdba273.js",
+    "static/js/453.a1c074be.chunk.js": "/LexiLab/static/js/453.a1c074be.chunk.js",
+    "index.html": "/LexiLab/index.html",
+    "main.708ccc55.css.map": "/LexiLab/static/css/main.708ccc55.css.map",
+    "main.2cdba273.js.map": "/LexiLab/static/js/main.2cdba273.js.map",
+    "453.a1c074be.chunk.js.map": "/LexiLab/static/js/453.a1c074be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708ccc55.css",
+    "static/js/main.2cdba273.js"
+  ]
+}
